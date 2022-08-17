@@ -1,0 +1,12 @@
+class  Program5ForLoop
+{
+	public static void main(String[] args) 
+	{
+		System.out.println("Hello World!");
+		for (double a=5.6;a<=8.3 ; a++ )
+		{
+			System.out.println("run");
+		}
+		System.out.println("No RUn");
+	}
+}
